@@ -1,20 +1,14 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Trabalho desenvolvimento de aplicação Fullstack de Projeto Orientado no IFTM Ituiutaba
+Esse trabalho teve o objetivo de colocar em pratica tudo que foi apreendido no decorrer do curso de Análise e Desenvolvimento de Sistemas 
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+# Construído com
+Ferramentas ou tecnologias utilizadas no desenvolvimento do projeto:
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
-
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
-
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+* [.NET](https://dotnet.microsoft.com/pt-br/) - Plataforma de desenvolvimento
+* [ASP.NET MVC](https://dotnet.microsoft.com/pt-br/apps/aspnet/mvc) - Framework aplicações web
+* [Visual Studio 2022](https://visualstudio.microsoft.com/pt-br/) - IDE
+* [PostgreSQL](https://www.postgresql.org/) - Banco de dados
+* [Swagger](https://github.com/rickyah/ini-parser](https://swagger.io/)) - Documentação da Web API
+* [Docker](https://www.docker.com/) - Gerenciador de imagens e container
+* [Heroku](https://www.heroku.com/) - Hospedagem do container docker
+   
