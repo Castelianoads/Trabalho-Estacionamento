@@ -8,8 +8,9 @@ Este projeto FullStack teve como objetivo colocar em pratica todos os nossos con
 O projeto inserido neste repositório é uma pequena parte e serve de base para a exibição do mesmo.
 
 
-### Tecnologias e ferramentas
-[Azure DevOps](https://azure.microsoft.com/pt-br/products/devops) - Gerenciamento do projeto
+
+##  Tecnologias e ferramentas
+[Azure DevOps](https://azure.microsoft.com/pt-br/products/devops) - Gerenciamento do projeto Scrum e Kanban
 
 [.NET](https://dotnet.microsoft.com/pt-br/) - Plataforma de desenvolvimento
 
